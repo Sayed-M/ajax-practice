@@ -1,0 +1,26 @@
+.plugin,
+.main{
+    padding-top: 100px;
+}
+
+.plugin input,
+.main input{
+    margin-bottom: 40px;
+}
+
+.plugin .responseField,
+.main .responseField{
+    margin-top: 20px;
+    width: 100%;
+    padding: 20px;
+}
+
+.hide-me{
+    display: none;
+}
+
+.main .responseField p{
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
